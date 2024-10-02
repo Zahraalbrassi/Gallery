@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "mekup.jpg",
+        "name": "Purple Eye Makeup",
+        "description": "When it comes to purple eye shadow, you're in luck if you have green eyes in particular. Green and purple are complementary shades, meaning they pair perfectly together."
+    },
+    {
+        "id": 2,
+        "img": "ouabh.jpg",
+        "name": "Once Upon A Broken Heart",
+        "description": "#1 NEW YORK TIMES BESTSELLER!ONCE UPON A BROKEN HEART marks the launch of a new series from Stephanie Garber about love, curses, and the lengths that people will go to for happily ever afterFor as long "
+    },
+    {
+        "id": 3,
+        "img": "caravel.jpg",
+        "name": "Caravel",
+        "description": "'If you ever wondered how it would feel to step into a living dream, here's your ticket' - Stacey LeeWelcome to Caraval, where nothing is quite what it seems Scarlett has never left the tiny isle ."
+    },
+    {
+        "id": 4,
+        "img": "dress.jpg",
+        "name": "Purple Dress",
+        "description": "Summer Dresses for Women Casual T Shirt Dresses Swing Flowy Beach Vacation Sundress with Pockets "
+    },
+    {
+        "id": 5,
+        "img": "flowers.jpg",
+        "name": "Flowers ",
+        "description": "Bellis perennis, the daisy, is a European species of the family Asteraceae, often considered the archetypal species of the name daisy. To distinguish this species from other plants known as daisies, it is sometimes qualified or known as common daisy, lawn daisy or English daisy"
+    },
+    {
+        "id": 6,
+        "img": "jurden.jpg",
+        "name": "The Cruel Prince",
+        "description": "The Folk of the Air is a young adult fantasy book series by Holly Black, published by Little Brown Books for Young Readers. The story follows the journey of mortal girl, Jude Duarte, and faerie prince, Cardan Greenbriar, as they navigate the world of hate, betrayal, and contempt along with feelings for each other"
+    }
+]
